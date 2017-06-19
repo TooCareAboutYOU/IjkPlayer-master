@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">IjkPlayer播放器</string>
+
+    <string name="bitmap_did_not_take_pictures">未完成拍摄</string>
+    <string name="application_global_holder_send_or_upload">发送或上传</string>
+    <string name="application_global_holder_download">下载</string>
+    <string name="error_local_connect_to_server">当前网络不可用,请确认网络连接</string>
+    <string name="error_connect_to_server">无法连接到服务器,请确认网络连接</string>
+    <string name="application_global_holder_limit_number">上传或下载的文件最多不能超过5个</string>
+    <string name="util_crash_handler_toast_abnormal">很抱歉,程序crash,即将退出.</string>
+    <string name="common_date_yesterday">昨天</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="N_A">N/A</string>
+    <string name="close">Close</string>
+    <string name="exit">Exit</string>
+    <string name="sample">Sample</string>
+    <string name="recent">Recent</string>
+    <string name="settings">Settings</string>
+    <string name="tracks">Tracks</string>
+    <string name="toggle_player">Player</string>
+    <string name="toggle_render">Render</string>
+    <string name="toggle_ratio">Scale</string>
+    <string name="show_info">Info</string>
+    <string name="vdec">vdec</string>
+    <string name="fps">fps</string>
+    <string name="v_cache">v-cache</string>
+    <string name="a_cache">a-cache</string>
+    <string name="load_cost">load-cost</string>
+    <string name="seek_cost">seek_cost</string>
+    <string name="seek_load_cost">seek_load_cost</string>
+    <string name="tcp_speed">tcp_speed</string>
+    <string name="bit_rate">bit_rate</string>
+
+
+    <string name="uploadvideo">上传视频总数</string>
+    <string name="uploadaudio">上传音频总数</string>
+
+    <string name="encodevideo">编码视频总数</string>
+    <string name="encodeaudio">编码音频总数</string>
+
+    <string name="videorate">上传视频速率</string>
+    <string name="audiorate">上传音频速率</string>
+
+    <string name="receivevideo">接收视频总数</string>
+    <string name="receiveaudio">接收音频总数</string>
+
+</resources>

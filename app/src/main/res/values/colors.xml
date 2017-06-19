@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorwhite">#ffffff</color>
+    <color name="colorhalftransparent">#20000000</color>
+    <color name="colorgreendark">#3B680B</color>
+    <color name="colorgreenlight">#679D52</color>
+
+    <color name="transparent">#0000</color>
+    <color name="white">#fff</color>
+    <color name="weibo_listtab_off">#8d8d8d</color>
+    <color name="ijk_transparent_dark">#77000000</color>
+
+</resources>
